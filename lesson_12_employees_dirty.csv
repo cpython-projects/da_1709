@@ -1,0 +1,16 @@
+ID,Name,Age,Salary ($),Hire Date,Country,Weight,Unnamed: 0
+1,John Smith,25,50000.0,2018-06-01,usa,80.0,100
+2,Anna Brown,Thirty,62000.0,07/10/2019,canada,65.0,101
+3,Tom Clark,40,,2015-03-15,Canada,75.0,102
+4,Mary Lee,29,72000.0,March 5 2017,United states,59.0,103
+5,Bob Stone,NaN,55000.0,2016/12/01,NaN,,104
+6,Kate Bell,Twenty,48000.0,NaT,UK,70.0,105
+7,Tom Clark,40,72000.0,2015-03-15,Canada,75.0,106
+8,Mary Lee,29,55000.0,March 5 2017,United States,59.0,107
+9,Jane Doe,35,61000.0,2018-11-10,USA,60.0,108
+10,Mike Ross,,,2019-04-01,UK,77.0,109
+11,Twenty,27,58000.0,2020-02-10,France,82.0,110
+12,Thirty,NaN,49000.0,2020-02-10,france,78.0,111
+13,John Smith,25,50000.0,2018-06-01,USA,80.0,112
+14,Emily White,28,63000.0,2021-07-15,NaN,66.0,113
+15,,Twenty,48000.0,07-2019-01,United kingdom,71.0,114
